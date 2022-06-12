@@ -1,0 +1,6 @@
+################
+##########2022-Jun-12: Bing***********
+
+add a new file in the remote created branch to check git fetch operation.
+
+!!!!!!!!!!!
